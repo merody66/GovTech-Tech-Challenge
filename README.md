@@ -21,4 +21,5 @@ pen down my thoughts instead.
 
 ### Step 3
 `sudo crontab -e` <br>
-insert this line into the cron file - `0 1 * * * /usr/bin/python /path/to/GovTech-Tech-Challenge/processData.py` <br>
+insert this line into the cron file - `30 1 * * * /usr/bin/python /path/to/GovTech-Tech-Challenge/processData.py` <br>
+The cron should run everyday at 1:30AM since the data files are expected to be available at 1:00AM everyday. 
