@@ -5,8 +5,8 @@ The repo is structured in 5 different branches according to the challenge requir
 1. data-pipelines
 2. databases
 3. sys-design
-4. charts-apis
-5. ml
+4. ~~charts-apis~~ (no time to attempt)
+5. ~~ml~~ (no time to attempt)
 
 ## Data Pipelines Task
 For this task, I have broken down into two parts. First would be the actual data pipeline that handles the reading of sample dataset <br>
