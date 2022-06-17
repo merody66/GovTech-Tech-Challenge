@@ -9,7 +9,7 @@ The repo is structured in 5 different branches according to the challenge requir
 5. ~~ml~~ (no time to attempt)
 
 ## Data Pipelines Task
-For this task, I have broken down into two parts. First would be the actual data pipeline that handles the reading of sample dataset <br>
+For this task, I have broken down into two parts. First would be the actual data pipeline that handles the reading of sample dataset
 file and processes it to produce a cleaner dataset. Second would be the scheduling component, in which I think scheduling a cron to crontab would do the job. <br>
 
 ### Step 1
