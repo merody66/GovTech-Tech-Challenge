@@ -12,7 +12,7 @@ The repo is structured in 5 different branches according to the challenge requir
 
 ## Databases Task
 For this task, I have created the Entity-Relationship Diagram based on the requirements specified before 
-creating the Dockerfile and DDL statements .sql file. <br>
+creating the Dockerfile and DDL statements .sql file.
 Based on some tutorials I found online, we can start Postgres with Docker Compose. <br>
 
 ## Run
