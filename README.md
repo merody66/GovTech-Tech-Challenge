@@ -8,6 +8,8 @@ The repo is structured in 5 different branches according to the challenge requir
 4. charts-apis
 5. ml
 
+![ERD Image](car_store_db_erd.png)
+
 ## Databases Task
 For this task, I have created the Entity-Relationship Diagram based on the requirements specified before 
 creating the Dockerfile and DDL statements .sql file. <br>
